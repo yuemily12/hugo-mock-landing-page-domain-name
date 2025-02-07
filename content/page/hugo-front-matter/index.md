@@ -1,39 +1,80 @@
 ---
-title: "Hugo Front Matter 🦉"
-description: "Hugo allows you to add front matter in yaml, toml, or json to your content files."
-summary: "Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables."
-draft: true
+title: "Clip Alert FAQ ❓"
+description: "Find answers to common questions about Clip Alert, a discreet, wearable safety solution designed for instant emergency alerts."
+summary: "Get answers to frequently asked questions about Clip Alert, from how it works to privacy and setup."
+draft: false
 tags: ["Featured"]
-images: ["hugo-front-matter.jpg","hugo-logo.svg"]
-keywords: ["Hugo Front Matter","hugo","front matter","draft post","front matter variables"]
+images: ["clip-alert-faq.jpg"]
+keywords:
+  [
+    "Clip Alert",
+    "FAQ",
+    "safety accessory",
+    "emergency alert",
+    "wearable safety",
+  ]
 aliases:
-  - draft-post
-  - my-fourth-blog-post
+  - faq
+  - clip-alert-help
 ---
 
-# Hugo Front Matter
+# Clip Alert FAQ
 
-Hugo allows you to add front matter in yaml, toml, or json to your content files.
+Have questions about **Clip Alert**? We've got answers! Below, you'll find commonly asked questions about how it works, setup, and privacy.
 
-**Front matter** allows you to keep metadata attached to an instance of a content type—i.e., embedded inside a content file—and is one of the many features that gives Hugo its strength.
+---
 
-![Banner](hugo-front-matter.jpg)
-{ .img-fluid }
+## Frequently Asked Questions
 
-## Front Matter Variables
+### 🔹 What is Clip Alert?
 
-There are a few [predefined variables](https://gohugo.io/content-management/front-matter/#predefined) that Hugo is aware of. See [Page Variables](https://gohugo.io/variables/page/) for how to call many of these predefined variables in your templates.
+Clip Alert is a **discreet safety accessory** designed as a stylish hair clip with an **emergency button** that, when pressed, **sends an alert with your real-time location to trusted contacts**.
 
-You can add fields to your front matter arbitrarily to meet your needs. These user-defined key-values are placed into a single `.Params` variable for use in your templates.
+---
 
-Any node or section can pass down to descendants a set of Front Matter values as long as defined underneath the reserved `cascade` Front Matter key.
+### 🔹 How do I set up Clip Alert?
 
-### Order Content Through Front Matter
+1. **Download the Clip Alert app** from the App Store or Google Play.
+2. **Pair your Clip Alert** via Bluetooth.
+3. **Add your trusted contacts** who will receive your emergency alerts.
+4. **Wear it like a regular hair clip**—you're ready to go!
 
-You can assign content-specific `weight` in the front matter of your content. These values are especially useful for ordering in list views. You can use `weight` for ordering of content and the convention of [<TAXONOMY>_weight](https://gohugo.io/content-management/taxonomies/) for ordering content within a taxonomy. See [Ordering and Grouping Hugo Lists](https://gohugo.io/templates/lists/#order-content) to see how `weight` can be used to organize your content in list views.
+---
 
-### Draft Post
+### 🔹 What happens when I press the button?
 
-if `true`, the content will not be rendered unless the `--buildDrafts` flag is passed to the `hugo` command.
+When you **press the hidden emergency button**, Clip Alert instantly:
 
-**Note**: This page has the `draft` front matter variable with value `true`, so it will not be rendered in production.
+- Sends your **real-time location** to your pre-set emergency contacts.
+- Notifies them that you may need help.
+- Works even if your phone is locked.
+
+---
+
+### 🔹 Does Clip Alert require an internet connection?
+
+Clip Alert uses **Bluetooth and your phone's mobile network** to send alerts. If you don’t have an internet connection, the device will attempt to send an SMS with your last known location.
+
+---
+
+### 🔹 Is my location data secure?
+
+Yes! Clip Alert **encrypts your location data** and only shares it with your trusted contacts. We **never** store or share your location with third parties.
+
+---
+
+### 🔹 How long does the battery last?
+
+Clip Alert has a **long-lasting battery** that lasts up to **6 months** on a single charge. You'll receive a notification when it's time to recharge.
+
+---
+
+### 🔹 Can I cancel an alert if I press the button by accident?
+
+Yes! You can cancel an alert within **10 seconds** by using the Clip Alert app.
+
+---
+
+### Need More Help?
+
+If you have additional questions, visit our **[Support Page](#)** or contact us directly.
