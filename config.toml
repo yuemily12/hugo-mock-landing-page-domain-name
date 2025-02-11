@@ -1,4 +1,5 @@
-baseURL = 'https://yuemily12.github.io/hugo-bootstrap-theme/'
+baseURL = "https://yuemily12.github.io/hugo-mock-landing-page/"
+
 title = "Clip Alert!"
 author = "Emily Yu"
 copyright = "Emily Yu"
